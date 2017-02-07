@@ -1,0 +1,12 @@
+CACHE MANIFEST
+#ver:2/6/2017, 11:38:31 PM
+#plugin:4.6.1
+
+CACHE:
+../bundle.vendor.95a44b0ca4f43a17c17e.js
+../bundle.main.9cb7936a586beb46dbb5.js
+../bundle.polyfills.60aaa6de1f66c64cfcf6.js
+../
+
+NETWORK:
+*
